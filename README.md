@@ -1,6 +1,7 @@
 # 🖨️ Clear Error Print Jobs Builder
 
 **PowerShell** script to automatically clear errored print jobs from Windows print servers.  
+
 It includes an **interactive builder** that lets you create a **customized, self-contained cleanup script** — ready to run manually or on a schedule.
 
 ---
