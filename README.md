@@ -138,10 +138,9 @@ This project is licensed under the **MIT License** — free to use, modify, and 
 
 ---
 
-## 👨‍💻 Author
+## 🐧 Author
 
-**(TuxCode)**  
-GitHub: [mytuxcode](https://github.com/mytuxcode)  
-Email:....[mytuxcode@gmail.com](mailto:mytuxcode@gmail.com)
+**Maintainer:** [@mytuxcode](https://github.com/mytuxcode)  
+If this project helps you, consider starring ⭐ the repository!
 
 > “Automation saves time — clean print queues save patience.”
